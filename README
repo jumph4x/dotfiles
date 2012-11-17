@@ -5,6 +5,7 @@ Installation
 cd
 git clone git://github.com/jumph4x/dotfiles.git .dotfiles
 ln -s .dotfiles/bash_profile .bash_profile
+ln -s .dotfiles/ackrc .ackrc
 ````
 Local Settings
 ==============
