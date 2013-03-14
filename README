@@ -13,3 +13,5 @@ Local Settings
 git config --global push.default current
 git config --global color.ui true
 git config --global core.editor "vim"
+git config --global user.name "Denis Ivanov"
+git config --global user.email 
